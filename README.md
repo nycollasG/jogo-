@@ -1,2 +1,0 @@
-# jogo-
-Aprender a rackear
